@@ -17,8 +17,9 @@ We used BigQuery to query a dataset of patient records and visualize the followi
 - [📁 queries/](./) – SQL files used to generate summarized tables
 
 
-## View Dashboard
-(You can link your public Looker Studio dashboard here if you publish it)
+## [View Dashboard: Lifestyle Factors & Parkinson’s Diagnosis (Looker Studio)] 
+- (https://lookerstudio.google.com/reporting/64702b22-aedb-43c3-af20-79103c91916a)
+
 
 ## 👤 Author
 Alan Qiu
