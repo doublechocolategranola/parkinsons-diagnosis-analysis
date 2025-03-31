@@ -13,8 +13,8 @@ We used BigQuery to query a dataset of patient records and visualize the followi
 - Dataset: `parkinsons_disease_data`
 
 ## Files  
-- [📄 Parkinsons_Alan_Qiu.pdf](./Parkinsons_Alan_Qiu.pdf) – Final report with annotated visuals  
-- [📁 queries/](./) – SQL files used to generate summarized tables
+- [Parkinsons_Alan_Qiu.pdf](./Parkinsons_Alan_Qiu.pdf) – Final report with annotated visuals  
+- [queries/](./) – SQL files used to generate summarized tables
 
 
 ## [View Dashboard: Lifestyle Factors & Parkinson’s Diagnosis (Looker Studio)] 
