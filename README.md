@@ -12,9 +12,10 @@ We used BigQuery to query a dataset of patient records and visualize the followi
 - Google Looker Studio
 - Dataset: `parkinsons_disease_data`
 
-## Files
-- `Parkinsons_Alan_Qiu.pdf` – Final report with annotated visuals
-- `queries/` – SQL files used to generate summarized tables
+## Files  
+- [📄 Parkinsons_Alan_Qiu.pdf](./Parkinsons_Alan_Qiu.pdf) – Final report with annotated visuals  
+- [📁 queries/](./) – SQL files used to generate summarized tables
+
 
 ## View Dashboard
 (You can link your public Looker Studio dashboard here if you publish it)
